@@ -1,0 +1,20 @@
+Variable = Es una forma que se le pone a un valor para representar un dato
+
+Strings = Es el texto que uno agrega a las variables y tienen que ir entre comillas
+
+Funciones = Una funcion es un conjunto de acciones que se van a ejecutar,
+ y que nos permite realizar tareas en bloques. Nos permite facilitarnos no tener que
+repetir una y otra vez una linea de codigos iguales
+
+Argumentos = Un argumento es un valor suministrado a un procedimiento cuando este es
+invocado o llamado
+
+Return = La palabra return finaliza la ejecución de una función
+y proporciona un valor que puede ser utilizado en otras partes del programa
+
+Declaraciones "If" = Se utiliza para evaluar una condición en el código, para conocer
+si su valor es verdadero o falso según la condición que le pongamos
+
+Valores Booleanos = Es un tipo de dato lógico que solo admite dos posibles respuestas (si
+o no, verdadero o falso)
+
